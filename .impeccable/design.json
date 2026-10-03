@@ -1,0 +1,466 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-03T03:46:30.065Z",
+  "title": "Design System: MerchantBoard",
+  "extensions": {
+    "colorMeta": {
+      "accent": {
+        "role": "primary",
+        "displayName": "accent",
+        "tonalRamp": [
+          "oklch(15% 0.2425 265.01)",
+          "oklch(26% 0.2425 265.01)",
+          "oklch(38% 0.2425 265.01)",
+          "oklch(49% 0.2425 265.01)",
+          "oklch(61% 0.2425 265.01)",
+          "oklch(72% 0.2425 265.01)",
+          "oklch(84% 0.2425 265.01)",
+          "oklch(95% 0.2425 265.01)"
+        ]
+      },
+      "accent-dark": {
+        "role": "primary",
+        "displayName": "accent dark",
+        "tonalRamp": [
+          "oklch(15% 0.1330 267.51)",
+          "oklch(26% 0.1330 267.51)",
+          "oklch(38% 0.1330 267.51)",
+          "oklch(49% 0.1330 267.51)",
+          "oklch(61% 0.1330 267.51)",
+          "oklch(72% 0.1330 267.51)",
+          "oklch(84% 0.1330 267.51)",
+          "oklch(95% 0.1330 267.51)"
+        ]
+      },
+      "tint": {
+        "role": "primary",
+        "displayName": "tint",
+        "tonalRamp": [
+          "oklch(15% 0.0347 265.99)",
+          "oklch(26% 0.0347 265.99)",
+          "oklch(38% 0.0347 265.99)",
+          "oklch(49% 0.0347 265.99)",
+          "oklch(61% 0.0347 265.99)",
+          "oklch(72% 0.0347 265.99)",
+          "oklch(84% 0.0347 265.99)",
+          "oklch(95% 0.0347 265.99)"
+        ]
+      },
+      "tint-dark": {
+        "role": "primary",
+        "displayName": "tint dark",
+        "tonalRamp": [
+          "oklch(15% 0.0773 261.18)",
+          "oklch(26% 0.0773 261.18)",
+          "oklch(38% 0.0773 261.18)",
+          "oklch(49% 0.0773 261.18)",
+          "oklch(61% 0.0773 261.18)",
+          "oklch(72% 0.0773 261.18)",
+          "oklch(84% 0.0773 261.18)",
+          "oklch(95% 0.0773 261.18)"
+        ]
+      },
+      "bg": {
+        "role": "neutral",
+        "displayName": "bg",
+        "tonalRamp": [
+          "oklch(15% 0.0086 247.92)",
+          "oklch(26% 0.0086 247.92)",
+          "oklch(38% 0.0086 247.92)",
+          "oklch(49% 0.0086 247.92)",
+          "oklch(61% 0.0086 247.92)",
+          "oklch(72% 0.0086 247.92)",
+          "oklch(84% 0.0086 247.92)",
+          "oklch(95% 0.0086 247.92)"
+        ]
+      },
+      "bg-dark": {
+        "role": "neutral",
+        "displayName": "bg dark",
+        "tonalRamp": [
+          "oklch(15% 0.0445 260.98)",
+          "oklch(26% 0.0445 260.98)",
+          "oklch(38% 0.0445 260.98)",
+          "oklch(49% 0.0445 260.98)",
+          "oklch(61% 0.0445 260.98)",
+          "oklch(72% 0.0445 260.98)",
+          "oklch(84% 0.0445 260.98)",
+          "oklch(95% 0.0445 260.98)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "ink",
+        "tonalRamp": [
+          "oklch(15% 0.0496 263.01)",
+          "oklch(26% 0.0496 263.01)",
+          "oklch(38% 0.0496 263.01)",
+          "oklch(49% 0.0496 263.01)",
+          "oklch(61% 0.0496 263.01)",
+          "oklch(72% 0.0496 263.01)",
+          "oklch(84% 0.0496 263.01)",
+          "oklch(95% 0.0496 263.01)"
+        ]
+      },
+      "ink-dark": {
+        "role": "neutral",
+        "displayName": "ink dark",
+        "tonalRamp": [
+          "oklch(15% 0.0169 267.79)",
+          "oklch(26% 0.0169 267.79)",
+          "oklch(38% 0.0169 267.79)",
+          "oklch(49% 0.0169 267.79)",
+          "oklch(61% 0.0169 267.79)",
+          "oklch(72% 0.0169 267.79)",
+          "oklch(84% 0.0169 267.79)",
+          "oklch(95% 0.0169 267.79)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "muted",
+        "tonalRamp": [
+          "oklch(15% 0.0444 260.55)",
+          "oklch(26% 0.0444 260.55)",
+          "oklch(38% 0.0444 260.55)",
+          "oklch(49% 0.0444 260.55)",
+          "oklch(61% 0.0444 260.55)",
+          "oklch(72% 0.0444 260.55)",
+          "oklch(84% 0.0444 260.55)",
+          "oklch(95% 0.0444 260.55)"
+        ]
+      },
+      "muted-dark": {
+        "role": "neutral",
+        "displayName": "muted dark",
+        "tonalRamp": [
+          "oklch(15% 0.0413 260.13)",
+          "oklch(26% 0.0413 260.13)",
+          "oklch(38% 0.0413 260.13)",
+          "oklch(49% 0.0413 260.13)",
+          "oklch(61% 0.0413 260.13)",
+          "oklch(72% 0.0413 260.13)",
+          "oklch(84% 0.0413 260.13)",
+          "oklch(95% 0.0413 260.13)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "line",
+        "tonalRamp": [
+          "oklch(15% 0.0205 257.48)",
+          "oklch(26% 0.0205 257.48)",
+          "oklch(38% 0.0205 257.48)",
+          "oklch(49% 0.0205 257.48)",
+          "oklch(61% 0.0205 257.48)",
+          "oklch(72% 0.0205 257.48)",
+          "oklch(84% 0.0205 257.48)",
+          "oklch(95% 0.0205 257.48)"
+        ]
+      },
+      "line-dark": {
+        "role": "neutral",
+        "displayName": "line dark",
+        "tonalRamp": [
+          "oklch(15% 0.0510 260.61)",
+          "oklch(26% 0.0510 260.61)",
+          "oklch(38% 0.0510 260.61)",
+          "oklch(49% 0.0510 260.61)",
+          "oklch(61% 0.0510 260.61)",
+          "oklch(72% 0.0510 260.61)",
+          "oklch(84% 0.0510 260.61)",
+          "oklch(95% 0.0510 260.61)"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "surface",
+        "tonalRamp": [
+          "oklch(15% 0.0045 258.32)",
+          "oklch(26% 0.0045 258.32)",
+          "oklch(38% 0.0045 258.32)",
+          "oklch(49% 0.0045 258.32)",
+          "oklch(61% 0.0045 258.32)",
+          "oklch(72% 0.0045 258.32)",
+          "oklch(84% 0.0045 258.32)",
+          "oklch(95% 0.0045 258.32)"
+        ]
+      },
+      "surface-dark": {
+        "role": "neutral",
+        "displayName": "surface dark",
+        "tonalRamp": [
+          "oklch(15% 0.0492 260.67)",
+          "oklch(26% 0.0492 260.67)",
+          "oklch(38% 0.0492 260.67)",
+          "oklch(49% 0.0492 260.67)",
+          "oklch(61% 0.0492 260.67)",
+          "oklch(72% 0.0492 260.67)",
+          "oklch(84% 0.0492 260.67)",
+          "oklch(95% 0.0492 260.67)"
+        ]
+      },
+      "button-text": {
+        "role": "neutral",
+        "displayName": "button text",
+        "tonalRamp": [
+          "oklch(15% 0.0000 89.88)",
+          "oklch(26% 0.0000 89.88)",
+          "oklch(38% 0.0000 89.88)",
+          "oklch(49% 0.0000 89.88)",
+          "oklch(61% 0.0000 89.88)",
+          "oklch(72% 0.0000 89.88)",
+          "oklch(84% 0.0000 89.88)",
+          "oklch(95% 0.0000 89.88)"
+        ]
+      },
+      "button-text-dark": {
+        "role": "neutral",
+        "displayName": "button text dark",
+        "tonalRamp": [
+          "oklch(15% 0.0496 263.01)",
+          "oklch(26% 0.0496 263.01)",
+          "oklch(38% 0.0496 263.01)",
+          "oklch(49% 0.0496 263.01)",
+          "oklch(61% 0.0496 263.01)",
+          "oklch(72% 0.0496 263.01)",
+          "oklch(84% 0.0496 263.01)",
+          "oklch(95% 0.0496 263.01)"
+        ]
+      },
+      "metal-silver": {
+        "role": "neutral",
+        "displayName": "metal silver",
+        "tonalRamp": [
+          "oklch(15% 0.0135 251.57)",
+          "oklch(26% 0.0135 251.57)",
+          "oklch(38% 0.0135 251.57)",
+          "oklch(49% 0.0135 251.57)",
+          "oklch(61% 0.0135 251.57)",
+          "oklch(72% 0.0135 251.57)",
+          "oklch(84% 0.0135 251.57)",
+          "oklch(95% 0.0135 251.57)"
+        ]
+      },
+      "metal-cobalt": {
+        "role": "primary",
+        "displayName": "metal cobalt",
+        "tonalRamp": [
+          "oklch(15% 0.2798 264.13)",
+          "oklch(26% 0.2798 264.13)",
+          "oklch(38% 0.2798 264.13)",
+          "oklch(49% 0.2798 264.13)",
+          "oklch(61% 0.2798 264.13)",
+          "oklch(72% 0.2798 264.13)",
+          "oklch(84% 0.2798 264.13)",
+          "oklch(95% 0.2798 264.13)"
+        ]
+      },
+      "hoodie-contrast-ground": {
+        "role": "neutral",
+        "displayName": "hoodie contrast ground",
+        "tonalRamp": [
+          "oklch(15% 0.0133 251.57)",
+          "oklch(26% 0.0133 251.57)",
+          "oklch(38% 0.0133 251.57)",
+          "oklch(49% 0.0133 251.57)",
+          "oklch(61% 0.0133 251.57)",
+          "oklch(72% 0.0133 251.57)",
+          "oklch(84% 0.0133 251.57)",
+          "oklch(95% 0.0133 251.57)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Store headline",
+        "purpose": "Main overview heading."
+      },
+      "revenue": {
+        "displayName": "Revenue",
+        "purpose": "Calculated net sales."
+      },
+      "headline": {
+        "displayName": "Ledger heading",
+        "purpose": "Order workspace heading."
+      },
+      "body": {
+        "displayName": "Interface text",
+        "purpose": "Ledger and supporting copy."
+      },
+      "label": {
+        "displayName": "Status and metadata",
+        "purpose": "Compact labels with written meaning."
+      }
+    },
+    "shadows": [
+      {
+        "name": "overlay-light",
+        "value": "0 18px 70px #091a3638",
+        "purpose": "Dialog and toast elevation."
+      },
+      {
+        "name": "overlay-dark",
+        "value": "0 18px 70px #02081080",
+        "purpose": "Dark-theme dialog and toast elevation."
+      }
+    ],
+    "motion": [
+      {
+        "name": "control-transition",
+        "value": "180ms",
+        "purpose": "Background, color and border state transitions."
+      },
+      {
+        "name": "chart-frame-limit",
+        "value": "30fps",
+        "purpose": "Bound rendering cost while visible."
+      },
+      {
+        "name": "chart-settling",
+        "value": "lerp factor .14; threshold .004",
+        "purpose": "Ease bars to changed paid-order values."
+      },
+      {
+        "name": "idle-turn",
+        "value": ".035 rad amplitude; .012 phase increment",
+        "purpose": "Slow optional chart movement."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "No idle turn; snap heights; no CSS transition",
+        "purpose": "Honor the operating-system preference."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide",
+        "value": "1750px"
+      },
+      {
+        "name": "compact-desktop",
+        "value": "1200px"
+      },
+      {
+        "name": "compact-ledger",
+        "value": "900px"
+      },
+      {
+        "name": "mobile",
+        "value": "800px"
+      },
+      {
+        "name": "narrow-mobile",
+        "value": "360px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary action",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Filled action with inverse hover.",
+      "html": "<button class=\"ds-control ds-primary\">Add order</button>",
+      "css": ".ds-control{display:inline-flex;align-items:center;justify-content:center;gap:9px;min-height:42px;padding:10px 16px;border:1px solid var(--line,#ccd5e2);border-radius:7px;background:transparent;color:var(--ink,#111d35);font:600 14px Manrope,sans-serif;cursor:pointer;transition:background .18s,color .18s,border-color .18s}.ds-control:hover{background:var(--tint,#dce7ff);border-color:var(--muted,#52617a)}.ds-control:disabled{opacity:.38;cursor:not-allowed}.ds-control:focus-visible{outline:3px solid var(--accent,#2456f5);outline-offset:4px}.ds-primary{background:var(--accent,#2456f5);border-color:var(--accent,#2456f5);color:var(--button-text,#fff)}.ds-primary:hover{background:var(--ink,#111d35);border-color:var(--ink,#111d35);color:var(--bg,#eaeff4)}"
+    },
+    {
+      "name": "Secondary action",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Outlined supporting action.",
+      "html": "<button class=\"ds-control\">Cancel</button>",
+      "css": ".ds-control{display:inline-flex;align-items:center;justify-content:center;gap:9px;min-height:42px;padding:10px 16px;border:1px solid var(--line,#ccd5e2);border-radius:7px;background:transparent;color:var(--ink,#111d35);font:600 14px Manrope,sans-serif;cursor:pointer;transition:background .18s,color .18s,border-color .18s}.ds-control:hover{background:var(--tint,#dce7ff);border-color:var(--muted,#52617a)}.ds-control:disabled{opacity:.38;cursor:not-allowed}.ds-control:focus-visible{outline:3px solid var(--accent,#2456f5);outline-offset:4px}"
+    },
+    {
+      "name": "Text action",
+      "kind": "button",
+      "refersTo": "button-text",
+      "description": "Quiet data-management action.",
+      "html": "<button class=\"ds-control ds-text\">Manage data</button>",
+      "css": ".ds-control{display:inline-flex;align-items:center;justify-content:center;gap:9px;min-height:42px;padding:10px 16px;border:1px solid var(--line,#ccd5e2);border-radius:7px;background:transparent;color:var(--ink,#111d35);font:600 14px Manrope,sans-serif;cursor:pointer;transition:background .18s,color .18s,border-color .18s}.ds-control:hover{background:var(--tint,#dce7ff);border-color:var(--muted,#52617a)}.ds-control:disabled{opacity:.38;cursor:not-allowed}.ds-control:focus-visible{outline:3px solid var(--accent,#2456f5);outline-offset:4px}.ds-text{border-color:transparent;padding:7px 9px;font-weight:500}"
+    },
+    {
+      "name": "Search field",
+      "kind": "input",
+      "refersTo": "input",
+      "description": "An accessible search input with accent focus.",
+      "html": "<input class=\"ds-control ds-input\" aria-label=\"Search orders\" placeholder=\"Search orders…\"/>",
+      "css": ".ds-input{min-height:42px;border:1px solid var(--line,#ccd5e2);border-radius:7px;color:var(--ink,#111d35);background:var(--surface,#f5f7fa);padding:10px 13px;caret-color:var(--accent,#2456f5);font:14px Manrope,sans-serif;max-width:100%}.ds-input::placeholder{color:var(--muted,#52617a);opacity:1}.ds-input:focus,.ds-input:hover{border-color:var(--accent,#2456f5)}.ds-control:focus-visible{outline:3px solid var(--accent,#2456f5);outline-offset:4px}"
+    },
+    {
+      "name": "Navigation",
+      "kind": "nav",
+      "description": "Visible tabs with an active underline.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Main navigation\"><button class=\"ds-control ds-current\" aria-current=\"page\">Overview</button><button class=\"ds-control\">Orders</button><button class=\"ds-control\">Products</button></nav>",
+      "css": ".ds-control{display:inline-flex;align-items:center;justify-content:center;gap:9px;min-height:42px;padding:10px 16px;border:1px solid var(--line,#ccd5e2);border-radius:7px;background:transparent;color:var(--ink,#111d35);font:600 14px Manrope,sans-serif;cursor:pointer;transition:background .18s,color .18s,border-color .18s}.ds-control:hover{background:var(--tint,#dce7ff);border-color:var(--muted,#52617a)}.ds-control:disabled{opacity:.38;cursor:not-allowed}.ds-control:focus-visible{outline:3px solid var(--accent,#2456f5);outline-offset:4px}.ds-nav{display:flex;gap:38px}.ds-nav button{position:relative;background:none;border:0;padding:17px 0;color:var(--muted,#52617a);font-weight:500}.ds-nav button:hover{color:var(--accent,#2456f5);background:transparent}.ds-nav .ds-current{color:var(--ink,#111d35)}.ds-current:after{content:\"\";position:absolute;bottom:0;left:0;right:0;height:2px;background:var(--accent,#2456f5)}"
+    },
+    {
+      "name": "Paid status",
+      "kind": "chip",
+      "refersTo": "status-paid",
+      "description": "Written order status paired with a distinct dot treatment.",
+      "html": "<span class=\"ds-status\">Paid</span>",
+      "css": ".ds-status{display:inline-flex;align-items:center;gap:9px;border:1px solid var(--line,#ccd5e2);border-radius:20px;padding:5px 12px;font:13px/1.35 Manrope,sans-serif;color:var(--ink,#111d35)}.ds-status:before{content:\"\";width:8px;height:8px;border-radius:50%;border:1px solid currentColor}.ds-status{color:var(--accent,#2456f5);background:var(--tint,#dce7ff);border-color:transparent}.ds-status:before{background:var(--accent,#2456f5)}"
+    },
+    {
+      "name": "Pending status",
+      "kind": "chip",
+      "refersTo": "status-pending",
+      "description": "Written order status paired with a distinct dot treatment.",
+      "html": "<span class=\"ds-status\">Pending</span>",
+      "css": ".ds-status{display:inline-flex;align-items:center;gap:9px;border:1px solid var(--line,#ccd5e2);border-radius:20px;padding:5px 12px;font:13px/1.35 Manrope,sans-serif;color:var(--ink,#111d35)}.ds-status:before{content:\"\";width:8px;height:8px;border-radius:50%;border:1px solid currentColor}"
+    },
+    {
+      "name": "Refunded status",
+      "kind": "chip",
+      "refersTo": "status-refunded",
+      "description": "Written order status paired with a distinct dot treatment.",
+      "html": "<span class=\"ds-status\">Refunded</span>",
+      "css": ".ds-status{display:inline-flex;align-items:center;gap:9px;border:1px solid var(--line,#ccd5e2);border-radius:20px;padding:5px 12px;font:13px/1.35 Manrope,sans-serif;color:var(--ink,#111d35)}.ds-status:before{content:\"\";width:8px;height:8px;border-radius:50%;border:1px solid currentColor}.ds-status{background:var(--line,#ccd5e2);border-color:transparent}.ds-status:before{background:currentColor}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Storefront cockpit",
+    "overview": "The Storefront cockpit uses a cool silver field, deep navy type and cobalt actions to make a sample store feel precise and tangible. An open sales overview leads into a ruled order ledger; visual density comes from alignment and typography, while the dimensional weekly chart provides the focal material.\n\nSpace Grotesk gives headings and financial figures their geometric character. Manrope keeps controls and transaction details compact. Light and dark themes share the same hierarchy, with a quieter surface treatment around the live brushed-metal bars. The chart and ledger express the same editable order data.",
+    "keyCharacteristics": [
+      "Open overview and ledger, separated by thin rules.",
+      "One cobalt family for actions, chart marks and paid status.",
+      "Brushed silver data bars with a cobalt fourth bar and a fading reflection.",
+      "Geometric display type, compact utility text and tabular financial figures.",
+      "An equivalent dark theme, mobile order summaries and optional mobile 3D."
+    ],
+    "rules": [
+      {
+        "name": "The Cobalt Carries Action Rule.",
+        "body": "Use the theme accent for primary actions, selected navigation, paid status and plotted sales. The fourth 3D bar is a fixed visual accent, not a highest-value indicator.",
+        "section": "colors"
+      },
+      {
+        "name": "The Numbers Stay Aligned Rule.",
+        "body": "Use tabular numerals for revenue, metrics, monetary table cells, weekly values and product sales; keep monetary ledger values right-aligned.",
+        "section": "typography"
+      },
+      {
+        "name": "The Material Belongs to Data Rule.",
+        "body": "Concentrate physical depth in the data bars and their grounded reflections. Keep the surrounding overview and ledger open and ruled.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** derive every sales mark, weekly height and product total from the current sample orders; paid orders drive sales, while the order count includes every status.",
+      "**Do** preserve the silver, navy and cobalt relationship in both themes and use the self-hosted Space Grotesk and Manrope assets.",
+      "**Do** retain the compact desktop ledger and reflow each order into a two-column summary at the mobile breakpoint.",
+      "**Do** keep visible sample-data and device-only-storage disclosures beside the working experience.",
+      "**Do** keep the CSS bar view, readable weekly totals, pause control, reduced-motion behavior and mobile 3D opt-in available.",
+      "**Do** retain photographic product cutouts and the generated brushed-metal texture with their recorded provenance."
+    ],
+    "donts": [
+      "**Don't** use the cobalt fourth bar to imply a winning week or a business status that the data does not establish.",
+      "**Don't** replace calculated chart shapes with the approved mockup's illustrative values.",
+      "**Don't** extend modal shadows to every dashboard region or enclose the open ledger in a repeated card grid.",
+      "**Don't** require WebGL or motion to read sales values or edit orders.",
+      "**Don't** turn a pending material-review finding into a reusable lighting rule."
+    ]
+  }
+}
