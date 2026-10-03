@@ -1,0 +1,6 @@
+{
+  "method": "image_gen.imagegen",
+  "prompt": "Create one high resolution seamless material texture for a physically based 3D renderer: satin brushed aluminum, a flat close-up orthographic square swatch filling the entire image. Fine dense straight diagonal brushing from lower-left to upper-right, very subtle silver grain and hairline grooves. Neutral silver gray, restrained variation, evenly lit with no directional baked-in highlights, no gradients, no vignette, no seams, no objects, no edges, no text. This will be mapped onto actual 3D sales bars and used as a subtle bump and roughness texture. Premium machined aluminum, fine scale. Opaque square image.\n",
+  "source": "exec-90d75f82-f028-4121-9485-25b674f7768e.png",
+  "derivation": "Original PNG resized and converted to WebP using Sharp; native alpha preserved where present."
+}

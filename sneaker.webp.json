@@ -1,0 +1,7 @@
+{
+  "method": "image_gen.imagegen",
+  "prompt": "Generate a single premium realistic ecommerce sneaker cutout on a genuinely transparent PNG background. Use the attached MerchantBoard approved dashboard as the visual reference for the tiny Everyday sneaker image in the second order row. The sneaker faces LEFT, seen from the outer side and slightly from above. Cool light-gray knit upper, white sole with distinctly visible gray tread line, dark-gray lace eyelets and tightly defined gray laces, subtle navy-gray interior collar, gray heel seam. No logos or writing. Rich but neutral microcontrast, distinct seams and shape at 48 pixels, clean silhouette and soft contact shadow. Entire shoe centered with 12 percent transparent margins, one object only. Preserve opaque white areas and transparent holes. Do not reproduce any UI or labels.\n",
+  "reference": ".impeccable/mocks/decision/cockpit.png",
+  "source": "exec-19ad00c5-fb6e-4f71-8334-0b8c52c3b398.png",
+  "derivation": "Original PNG resized and converted to WebP using Sharp; native alpha preserved where present."
+}

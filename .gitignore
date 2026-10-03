@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.impeccable/mocks/
+.impeccable/build/
+.impeccable/review/
+.impeccable/questions/
+.impeccable/prepare-assets.mjs
+plate-proof.html
+assets/plates/
